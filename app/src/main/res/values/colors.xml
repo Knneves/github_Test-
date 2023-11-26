@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#D5CEEC</color>
+
+    <color name="dark_purple">#21073a</color>
+    <color name="purple">#551382</color>
+    <color name="light_purple">#7e57c2</color>
+    <color name="medium_purple">#673ab7</color>
+    <color name="deep_purple">#512da8</color>
+    <color name="light_green">#8bc34a</color>
+    <color name="teal">#009688</color>
+    <color name="deep_orange">#ff5722</color>
+    <color name="dark_green">#388e3c</color>
+    <color name="dark_teal">#004d40</color>
+    <color name="dark_red_violet">#880e4f</color>
+    <color name="dark_blue">#0d47a1</color>
+    <color name="dark_gray">#424242</color>
+    <color name="dark_brown">#3e2723</color>
+    <color name="blood_red">#8e0000</color>
+    <color name="sinister_cyan">#00acc1</color>
+    <color name="shadow_black">#121212</color>
+    <color name="dark_red">#440b0b</color>
+    <color name="light_red">#6b0a0a</color>
+    <color name="minion_yellow_light">#ffeb3b</color>
+    <color name="minion_yellow">#ffd600</color>
+    <color name="minion_yellow_dark">#fbc02d</color>
+    <color name="dark_minion_yellow_light">#d4c31a</color>
+    <color name="dark_minion_yellow">#b3a900</color>
+    <color name="dark_minion_yellow_dark">#9e9300</color>
+    <color name="similar_minion_yellow_dark_1">#e5ab17</color>
+    <color name="similar_minion_yellow_dark_2">#d69c00</color>
+    <color name="similar_minion_yellow_dark_3">#c28c00</color>
+    <color name="less_saturated_minion_yellow_dark_2">#e6c075</color>
+    <color name="violeta_suave">#e0d7e5</color>
+    <color name="violeta_menos_suave">#9a7aa7</color>
+
+</resources>
